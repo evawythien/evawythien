@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Eva. Code lover. Passionate about code, design and photography.
+
+- 🚀 [Personal website](https://int-tense.com)
+- 👓 [Linkedin](https://www.linkedin.com/in/evadevena/)
+- 📰 [Twitter](https://twitter.com/evawythien)  
+- 🎨 [Codepen](https://codepen.io/evawythien)
+- 📷 [Instagram](https://www.instagram.com/evawythien/)
+
 <!--
 **evawythien/evawythien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
