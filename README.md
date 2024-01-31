@@ -4,7 +4,6 @@ I'm Eva. Code lover. Passionate about code, design and photography.
 
 - 🚀 [Personal website](https://int-tense.com)
 - 👓 [Linkedin](https://www.linkedin.com/in/evadevena/)
-- 📰 [Twitter](https://twitter.com/evawythien)  
 - 🎨 [Codepen](https://codepen.io/evawythien)
 - 📷 [Instagram](https://www.instagram.com/evawythien/)
 
